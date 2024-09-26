@@ -128,8 +128,17 @@ public class stepDefination extends Utils {
 	public void del_place_payload() throws IOException {
 	    // Write code here that turns the phrase above into concrete actions
 	 Res = given().spec(requestSpecification()).body(payload.delPayload(PlaceId));
+	 
+	 System.out.println("GitHub");
+	 System.out.println("GitHub-Copilet");
+	 System.out.println("GitHub Mastrer");
+	 System.out.println("GitHub Yes");
+	 
 	}
-               
+       
+	
+	
+	 
 	 
 	
 	                                                                                       
